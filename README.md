@@ -1,3 +1,9 @@
+# My dotfiles
+These are my dotfiles based on holman dotfiles but with lots of changes.
+ - Removed stuff related to mac and rubby
+ - Added vim config from @Relrin
+ - But changed it according to @tomsquest
+
 # holman does dotfiles
 
 ## dotfiles
