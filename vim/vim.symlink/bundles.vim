@@ -27,6 +27,7 @@ Plugin 'honza/vim-snippets'             " snippets repo
 Plugin 'scrooloose/syntastic'           " Syntax checking plugin for Vim
 Plugin 'tpope/vim-commentary'           " Comment stuff out
 Plugin 'mitsuhiko/vim-sparkup'          " Sparkup (XML/jinja/htlm-django/etc.) support
+Plugin 'Valloric/YouCompleteMe'         " Auto completion for C++
 
 " --- CSS ---
 Plugin 'JulesWang/css.vim'              " CSS syntax file
